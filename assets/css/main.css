@@ -45,7 +45,7 @@ Description: InduPress - Industry & Factory HTML Template
 /**----------------------------------------
 START: Theme Default CSS
 ----------------------------------------*/
-/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
 .dot-style, .footer-info .footer-share ul, .widget_nav_menu .footer-menu ul, .footer-contact ul, .copyright-content-ara .bottom-menu ul, .team-share ul, .tj-tags-post .post-share ul, .tj-latest-comments ul, .tj-sidebar__widget.widget_categories ul, .tj_recent_posts ul, .project-category ul, .project-details-share ul, .check-list ul, .service-contact ul, .team-item .team-content .team-socials ul, .blog-meta ul, .price-item-three .price-list ul, .tj-header-area.header-2 .mainmenu-area .mainmenu-wrapper .mainmenu > ul, .tj-header-area.header-3 .mainmenu-wrapper .mainmenu > ul, .mainmenu > ul, .header-socials ul, .header-contact-infos ul {
   margin: 0;
   padding: 0;
